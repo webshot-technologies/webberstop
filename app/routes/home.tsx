@@ -184,7 +184,7 @@ export default function Home() {
                         preload="auto"
                         style={{ width: "100%", height: "100%", objectFit: "cover" }}
                     >
-                        <source src="/Video/g1crf20.mp4" type="video/mp4" />
+                        <source src="/Video/g10crf25.mp4" type="video/mp4" />
                         Your browser does not support HTML5 video.
                     </video>
                 </div>
